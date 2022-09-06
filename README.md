@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sfundo Mhlungu</h1>
-<h3 align="center">I am a Front-end Dev, build wasm modules with rust and learn concepts with c</h3>
+<h3 align="center">I am a Front-end Dev, build wasm modules with zig/rust and learn concepts with c</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Zig and C**
 
 - 📝 I regularly write articles on [https://dev.to/sfundomhlungu](https://dev.to/sfundomhlungu)
 
