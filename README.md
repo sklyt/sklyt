@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sfundo Mhlungu</h1>
 <h3 align="center">I am a Front-end Dev, build wasm modules with zig/rust and learn concepts with c</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **Zig and C**
 
