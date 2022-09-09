@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sfundo Mhlungu</h1>
 <h3 align="center">I am a Front-end Dev, build wasm modules with zig/rust and learn concepts with c</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 - 🌱 I’m currently learning **Zig and C**
