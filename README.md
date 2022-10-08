@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sfundo Mhlungu</h1>
-<h3 align="center">I am a Front-end Dev, build wasm modules with zig/rust and learn concepts with c</h3>
+<h3 align="center">I am a React Front-end Dev, occasionally build wasm modules with zig || Assemblyscript, I enjoy some C</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfundomhlungu&show_icons=true&locale=en&layout=compact" alt="sfundomhlungu" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=sfundomhlungu&show_icons=true"/></p>
