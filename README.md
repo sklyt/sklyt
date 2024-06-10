@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sfundo Mhlungu</h1>
-<h3 align="center">I am a React Front-end Dev, occasionally build wasm modules with zig || Assemblyscript, I enjoy some C</h3>
+<h3 align="center">I am a Software Engineer at DarkPools.ai, leading backend engineering and handling ML and Graph Data Science tasks</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
-- 🌱 I’m currently learning **Zig and C**
+- 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [https://dev.to/sfundomhlungu](https://dev.to/sfundomhlungu)
+- 📝 I regularly write articles on [skdev.cc](https://www.skdev.cc/posts)
 
-- 💬 Ask me about **Ionic, React, Javascript**
+- 💬 Ask me about **Typescript, Python, Golang, Backend, Deno**
 
 - 📫 How to reach me **mhlungusk@gmail.com**
 
