@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sfundo Mhlungu</h1>
-<h3 align="center">I am a Software Engineer at DarkPools.ai, leading backend engineering and handling ML and Graph Data Science tasks</h3>
+<h1 align="center">Hi 👋, I'm Sk</h1>
+<h3 align="center">Lead backend engineer, also andling ML and Graph Data Science tasks</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C++ node addons**
 
 - 📝 I regularly write articles on [skdev.cc](https://www.skdev.cc/posts)
 
