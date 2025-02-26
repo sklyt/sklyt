@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sk</h1>
-<h3 align="center">Lead backend engineer, also andling ML and Graph Data Science tasks</h3>
+<h3 align="center">Machine Learning & Lead Backend Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
